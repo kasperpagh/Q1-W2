@@ -54,7 +54,7 @@ public class Producer extends Thread
             {
                 long i;
 
-                i = fib((long) s1.poll());
+                i = fib((long)s1.poll());
 
 //                System.out.println("I er lig med: " + i);
 //                System.out.println("her fra t " + s2.isEmpty());

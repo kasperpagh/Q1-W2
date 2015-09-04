@@ -57,7 +57,7 @@ public class ThreadExerciseFRIDAYWeek2
     public static void main(String[] args)
     {
         
-        oneMethodToRuleThemAllForAssignmentNumber5(1);
+        oneMethodToRuleThemAllForAssignmentNumber5(4);
 //        ArrayBlockingQueue<Long> s1 = new ArrayBlockingQueue(15);
 //        ArrayBlockingQueue<Long> s2 = new ArrayBlockingQueue(15);
 //
